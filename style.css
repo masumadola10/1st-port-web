@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(rgb(208, 226, 174), rgb(160, 224, 203));
 }
 h1{
     font-size: 50px;
@@ -13,6 +14,8 @@ section{
 }
 .half-width img{
     width: 52%;
+    border: 3px solid pink;
+    margin-top: 50px;
 }
 .pink{
     color: pink;
